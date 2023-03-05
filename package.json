@@ -1,7 +1,6 @@
 {
   "name": "testing",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -12,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.4.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebaskhail/git-workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hebaskhail/git-workshop/issues"
+  },
+  "homepage": "https://github.com/hebaskhail/git-workshop#readme",
+  "description": ""
 }
