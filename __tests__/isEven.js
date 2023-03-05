@@ -25,4 +25,4 @@ describe('isEven', () => {
         expect(isEven(3)).toBe(false);
         }
     );
-});
+})
