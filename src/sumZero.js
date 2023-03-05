@@ -13,4 +13,6 @@ function sumZero(arr) {
       left++;
     }
   }
-}
+} 
+
+module.exports = sumZero;
